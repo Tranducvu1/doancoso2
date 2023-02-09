@@ -1,0 +1,57 @@
+/* pages title */
+.pages-title {background: rgba(0, 0, 0, 0) url("img/page-bg.png") repeat scroll 0 0;}
+
+.pages-title-text h2 {
+    margin-top: 80px;
+	color:#333;
+	font-size:32px;
+	margin-bottom:-20px;
+}
+.pages-title li {
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.title li {
+    color: #999;
+}
+
+.googleMap-info, .contact-details {
+    position: relative;
+}
+#googleMap {
+    height: 480px;
+}
+googleMap {
+    width: 100%;
+}
+.pages-title ul span {padding: 0 10px;}
+header.header-one.header-page {box-shadow: 0 2px 7px rgba(25, 25, 25, 0.2);}
+/*-------------------------------------*/s
+.section-padding{padding:80px 0;}
+.section-padding-top{padding-top:80px;}
+.section-padding-bottom{padding-bottom:80px;}
+/*----------icon-------*/
+.col-text-center {
+    float: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.contact-details {
+    margin-bottom: -80px;
+    padding: 60px 0;
+    top: -80px;
+}
+.single-contact i {
+    border: 2px solid #ccc;
+    font-size: 40px;
+    height: 70px;
+    line-height: 70px;
+    margin-bottom: 30px;
+    width: 70px;
+}
+.mdi-map-marker:before {
+    content: "\F34E";
+}
+.single-contact > p {
+    font-size: 14px;
+}

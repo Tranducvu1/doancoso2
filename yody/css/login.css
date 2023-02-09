@@ -1,0 +1,69 @@
+.custom-input input {
+    background: #f5f5f5 none repeat scroll 0 0;
+}
+
+.custom-input input {
+    color: #999;
+}
+
+.log-title > h3 {
+    font-size: 20px;
+    font-weight: 800;
+}
+.pages .login-text {
+    border: 3px solid #f5f5f5;
+    padding: 40px;
+}
+.main-input .custom-input input, .custom-select select, .checkout .panel-group li {
+    margin-bottom: 15px;
+}
+.login-page .custom-input > p {
+    margin-bottom: 20px;
+}
+.custom-input input {
+    border: 0 none;
+    line-height: 40px;
+    padding: 0 20px;
+    width: 100%;
+}
+.login-page .submit-text {
+    margin-top: 25px;
+}
+.submit-text > button, .submit-text a {
+    background: #333 none repeat scroll 0 0;
+    border: 0 none;
+    color: #fff;
+    display: inline-block;
+    line-height: 35px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+}
+.submit-text button:hover{
+    color: red;
+}
+.pages .login-text {
+    border: 3px solid #f5f5f5;
+    padding: 40px;
+}
+.login-page .custom-input > p {
+    margin-bottom: 20px;
+}
+.main-input .custom-input input, .custom-select select, .checkout .panel-group li {
+    margin-bottom: 15px;
+}
+
+.custom-input input {
+    border: 0 none;
+    line-height: 40px;
+    padding: 0 20px;
+    width: 100%;
+}
+.login-page a.forget {
+    color: #999;
+    margin: 5px 0;
+    text-transform: capitalize;
+}
+.login-page .submit-text {
+    margin-top: 25px;
+}

@@ -1,0 +1,377 @@
+ul li {
+    float: left;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 10px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+h5, .h5 {
+    font-size: 14px;
+}
+.pages {
+    background: #F5F5F5;
+}
+.section-padding-top {
+    padding-top: 130px;
+}
+.single-list-view {
+    margin-bottom: 30px;
+}
+.single-list-view {
+    transition: all 0.3s ease 0s;
+}
+.list-text {
+    background: #fff none repeat scroll 0 0;
+}
+.product-details .list-text > h3 {
+    font-size: 25px;
+}
+.list-text > h3 {
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 2px;
+}
+.ratting i {
+    color: #fe5858;
+}
+.ratting i {
+    float: left;
+    font-size: 16px;
+    padding: 2px 0.2px;
+}
+.ratting p {
+    float: right;
+    margin-left: 10px;
+}
+.list-btn > a {
+    background: #ccc none repeat scroll 0 0;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 35px;
+    padding: 0 30px;
+    margin-right: 7px;
+    font-weight: 70px;
+}
+.list-text > h5 {
+    color: #fe5858;
+}
+.floatright {
+    float: right;
+}
+.product-details .margin-top {margin-top: 30px;}
+.product-details .list-text {padding: 50px;}
+.product-details .list-text > h5 del {font-size: 18px;}
+.s-shoose h5 {
+	float: left;
+	font-size: 13px;
+	width: 80px;
+	margin: 0;
+	line-height: 30px;
+}
+.all-choose .color-select,.size-drop .dropdown-menu {padding: 0;}
+.all-choose .color-select span {
+	height: 15px;
+	margin-right: 9px;
+	width: 15px;
+}
+.s-shoose {
+    margin-bottom: 17px;
+    padding: 3px 0;
+}
+.product-details .plus-minus-box {
+	border: 0 none;
+	position: relative;
+	text-align: center;
+	top: -3px;
+	width: 40px;
+}
+.product-details .plus-minus {
+    overflow: hidden;
+    text-align: center;
+    width: 90px;
+}
+.product-details .dec.qtybutton {
+    font-size: 24px;
+    line-height: 25px;
+}
+.product-details .inc.qtybutton {font-size: 20px;}
+.product-details.qtybutton {cursor: pointer;}
+.product-details .list-btn {margin: 40px 0;}
+.size-drop .btn {
+	background: transparent none repeat scroll 0 0;
+	border-radius: 0;
+	font-size: 13px;
+	line-height: 25px;
+	margin-bottom: 0;
+	margin-right: 5px;
+	padding: 0 10px;
+	font-weight:700;
+	width: 60px;
+}
+.size-drop .dropdown-menu {
+	border-radius: 0;
+	font-size: 13px;
+	margin: -1px 0;
+	min-width: 90px;
+}
+.size-drop .dropdown-menu ,.size-drop .btn,.product-details .plus-minus ,.size-drop .btn.dropdown-toggle{
+	border: 1px solid #ccc;
+}
+.size-drop .dropdown-menu > li > a {padding: 2px 10px;}
+.size-drop .dropdown-menu > li {float: none;}
+.size-drop .btn.dropdown-toggle {
+	font-size: 20px;
+	height: 27px;
+	line-height: 27px;
+	padding: 0 !important;
+	width: 27px;
+}
+.btn-group.open .dropdown-toggle ,.size-drop .dropdown-menu {
+  box-shadow:none;
+}
+.single-quick-image {margin-bottom: 20px;}
+.quick-thumb li {
+    margin-right: 10px;
+    width: 22.92%;
+}
+.quick-thumb li:last-child {margin: 0;}
+/* reviews tab */
+.reviews-tab a {
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 7px;
+    text-transform: capitalize;
+}
+.reviews-tab > li {margin-right: 60px;}
+.reviews-tab {margin-bottom: 40px;}
+.reviews-tab li.active a {
+    border-bottom: 2px solid #fe5858;
+}
+.info-reviews .author-des > span {margin-bottom: 10px;}
+.info-reviews hr {margin: 30px 0;}
+.your-rating {margin-top: 60px;}
+.your-rating .rating {margin-bottom: 30px;}
+.your-rating .rating li span {padding: 0 10px;}
+.input-mail > input, .product-details .custom-mess textarea {
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+	line-height:35px;
+}
+.product-details .custom-mess textarea ,#googleMap{width: 100%;}
+/*-------------------------------------*/
+/* quick view modal */
+.simpleLens-image img{
+	width: 370px;
+	height: 400px;
+}
+.product-slider img{
+	width: 90px;
+	height: 90px;
+}
+.main-view {
+	background: #f2f2f2 none repeat scroll 0 0;
+	padding: 30px;
+	border-radius: 0;
+}
+.quick-view .modal-dialog {
+  width: 100%;
+  margin: 20px 0;
+}
+.quick-view .modal-footer {
+	background: #fff none repeat scroll 0 0;
+	border: 1px solid #333;
+	border-radius: 50%;
+	cursor: pointer;
+	height: 25px;
+	padding: 0;
+	position: absolute;
+	right: -15px;
+	text-align: center;
+	top: -15px;
+	width: 25px;
+}
+.quick-view .quick-thumb li {width: 22.75%;}
+.modal.animated{animation-duration:.6s;}
+/*-------set size image-----*/
+.product-details .margin-top {margin-top: 30px;}
+.product-details .list-text {padding: 50px;}
+.product-details .list-text > h5 del {font-size: 18px;}
+.product-details .list-text > h5,.product-details .list-text > h3 {
+  font-size: 25px;
+}
+.s-shoose h5 {
+	float: left;
+	font-size: 13px;
+	width: 80px;
+	margin: 0;
+	line-height: 30px;
+}
+.all-choose .color-select,.size-drop .dropdown-menu {padding: 0;}
+.all-choose .color-select span {
+	height: 15px;
+	margin-right: 9px;
+	width: 15px;
+}
+.s-shoose {
+    margin-bottom: 17px;
+    padding: 3px 0;
+}
+.product-details .plus-minus-box {
+	border: 0 none;
+	position: relative;
+	text-align: center;
+	top: -3px;
+	width: 40px;
+}
+.product-details .plus-minus {
+    overflow: hidden;
+    text-align: center;
+    width: 90px;
+}
+.product-details .dec.qtybutton {
+    font-size: 24px;
+    line-height: 25px;
+}
+.product-details .inc.qtybutton {font-size: 20px;}
+.product-details.qtybutton {cursor: pointer;}
+.product-details .list-btn {margin: 40px 0;}
+.size-drop .btn {
+	background: transparent none repeat scroll 0 0;
+	border-radius: 0;
+	font-size: 13px;
+	line-height: 25px;
+	margin-bottom: 0;
+	margin-right: 5px;
+	padding: 0 10px;
+	font-weight:700;
+	width: 60px;
+}
+.size-drop .dropdown-menu {
+	border-radius: 0;
+	font-size: 13px;
+	margin: -1px 0;
+	min-width: 90px;
+}
+.size-drop .dropdown-menu ,.size-drop .btn,.product-details .plus-minus ,.size-drop .btn.dropdown-toggle{
+	border: 1px solid #ccc;
+}
+.size-drop .dropdown-menu > li > a {padding: 2px 10px;}
+.size-drop .dropdown-menu > li {float: none;}
+.size-drop .btn.dropdown-toggle {
+	font-size: 20px;
+	height: 27px;
+	line-height: 27px;
+	padding: 0 !important;
+	width: 27px;
+}
+.btn-group.open .dropdown-toggle ,.size-drop .dropdown-menu {
+  box-shadow:none;
+}
+.single-quick-image {margin-bottom: 20px;}
+.quick-thumb li {
+    margin-right: 10px;
+    width: 22.92%;
+}
+.quick-thumb li:last-child {margin: 0;}
+/* reviews tab */
+.reviews-tab a {
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 7px;
+    text-transform: capitalize;
+}
+.reviews-tab > li {margin-right: 60px;}
+.reviews-tab {margin-bottom: 40px;}
+.reviews-tab li.active a {
+    border-bottom: 2px solid #fe5858;
+}
+.info-reviews .author-des > span {margin-bottom: 10px;}
+.info-reviews hr {margin: 30px 0;}
+.your-rating {margin-top: 60px;}
+.your-rating .rating {margin-bottom: 30px;}
+.your-rating .rating li span {padding: 0 10px;}
+.input-mail > input, .product-details .custom-mess textarea {
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+	line-height:35px;
+}
+.product-details .custom-mess textarea ,#googleMap{width: 100%;}
+.padding60{padding:60px;}
+.padding60,.order-no ul li,.complete-title > p,.pages .custom-select option,.input-mail > input, .product-details .custom-mess textarea,.contact-details  {background:#fff;}
+.log-title > h3 {
+    font-size: 20px;
+    font-weight: 800;
+}
+.product-details .margin-top {
+    margin-top: 30px;
+}
+.reviews-tab > li {
+    margin-right: 60px;
+}
+.reviews-tab li.active a {
+    border-bottom: 2px solid #fe5858;
+}
+.reviews-tab li.active a {
+    color: #333;
+}
+.tab-content>.active {
+    display: block;
+}
+.fade.in {
+    opacity: 1;
+}
+.fade {
+    transition: opacity .15s linear;
+}
+.tb ul {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    padding-top: 10px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.tb ul li {
+    display: table;
+    background: #fff;
+    width: 100%;
+    border-top: 1px solid #eee;
+    padding: 5px 0;
+}
+.tb ul li span {
+    display: table-cell;
+    width: 40%;
+    vertical-align: top;
+    padding: 5px 0;
+    font-size: 14px;
+    color: #666;
+}
+/*-----------icon buy-----------*/
+@media (min-width: 970px) and (max-width: 1169px){
+.actions-btn {
+    transform: scale(1.5);
+}
+}
+
+.actions-btn > a {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 50%;
+    color: #333333;
+    display: inline-block;
+    font-size: 18px;
+    height: 35px;
+    line-height: 35px;
+    margin: 0 4px;
+    width: 35px;
+}
